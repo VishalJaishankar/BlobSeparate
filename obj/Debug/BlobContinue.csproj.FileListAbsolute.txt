@@ -1,0 +1,14 @@
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\BlobContinue.exe.config
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\BlobContinue.exe
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\BlobContinue.pdb
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\obj\Debug\BlobContinue.csprojAssemblyReference.cache
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\obj\Debug\BlobContinue.csproj.CoreCompileInputs.cache
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\obj\Debug\BlobContinue.exe
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\obj\Debug\BlobContinue.pdb
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Microsoft.Azure.Storage.Blob.dll
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Microsoft.Azure.Storage.Common.dll
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\bin\Debug\Newtonsoft.Json.xml
+C:\Users\jaish\source\repos\BlobContinue\BlobContinue\obj\Debug\BlobContinue.csproj.CopyComplete
